@@ -2,7 +2,7 @@
  * ofxNodeArray
  * an abstract class for managing node cluster
  *
- * Copyright (c) 2013 Yoshito Onishi, Satoru Higa, Motoi Shimizu, Kyle McDonald, YCAM InterLab
+ * Copyright (c) 2013 YCAM InterLab, Yoshito Onishi, Satoru Higa, Motoi Shimizu, Kyle McDonald
  * Development Supported by YCAM InterLab http://interlab.ycam.jp/en/
  *
  * ofxNodeArray is a dependency addon of RAMDanceToolkit

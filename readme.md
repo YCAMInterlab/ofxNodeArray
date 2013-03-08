@@ -1,6 +1,6 @@
 ## License
 
-Copyright 2012-2013 Yoshito Onishi, Satoru Higa, Motoi Shimizu, Kyle McDonald and YCAMInterLab
+Copyright 2012-2013 YCAM InterLab, Yoshito Onishi, Satoru Higa, Motoi Shimizu, Kyle McDonald
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
