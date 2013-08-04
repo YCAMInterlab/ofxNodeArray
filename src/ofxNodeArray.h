@@ -134,7 +134,7 @@ public:
 protected:
 	
 	string name;
-	vector<NodeType> nodes;
+	deque<NodeType> nodes;
 	
 	inline void rebuildHierarchy(const NodeArray& ref);
 	inline void clearHierarchy();
